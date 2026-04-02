@@ -1,4 +1,4 @@
-# 🤖 WhatsApp Mass Message Bot
+# 🤖 WhatsAppBot
 
 Envie mensagens em massa no WhatsApp automaticamente. Perfeito para irritar amigos!
 
